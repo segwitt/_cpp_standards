@@ -1,0 +1,9 @@
+
+
+
+load abc
+store a d
+store d b
+load d
+load a
+load b
